@@ -1,0 +1,9 @@
+// AUTO-GENERATED MODULES - Add these to app.module.ts imports array
+import { RestaurantsModule } from './modules/restaurants/restaurants.module';
+import { MenusModule } from './modules/menus/menus.module';
+import { OrdersModule } from './modules/orders/orders.module';
+
+// Add to @Module imports array:
+// RestaurantsModule,
+// MenusModule,
+// OrdersModule
